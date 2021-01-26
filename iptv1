@@ -1,0 +1,4 @@
+stream infochannel {
+  url playlist:///opt/flussonic/priv/playlist.txt;
+  transcoder vb=2048k preset=fast logo=/opt/flussonic/wwwroot/flu/images/erly-small.png@10:10 ab=128k;
+}
